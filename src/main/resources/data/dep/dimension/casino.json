@@ -1,0 +1,17 @@
+{
+  "type": "dep:casino",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "minecraft:the_void",
+      "lakes": false,
+      "features": false,
+      "structure_overrides": [],
+      "layers": [
+        { "block": "minecraft:bedrock", "height": 1 },
+        { "block": "minecraft:stone", "height": 3 },
+        { "block": "minecraft:black_concrete", "height": 1 }
+      ]
+    }
+  }
+}

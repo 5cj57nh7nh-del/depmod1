@@ -1,0 +1,7 @@
+{
+  "block.dep.slot_machine": "Игровой автомат",
+  "block.dep.roulette": "Рулетка",
+  "block.dep.debt_pit": "Долговая яма",
+  "item.dep.chip": "Фишка казино",
+  "item.dep.ticket": "Золотой билет в казино"
+}

@@ -1,0 +1,3 @@
+{ "type": "minecraft:crafting_shaped", "pattern": ["GGG", "RLR", "III"],
+  "key": { "G": { "item": "minecraft:gold_ingot" }, "R": { "item": "minecraft:redstone" }, "L": { "item": "minecraft:lever" }, "I": { "item": "minecraft:iron_ingot" } },
+  "result": { "id": "dep:slot_machine", "count": 1 } }

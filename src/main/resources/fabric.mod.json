@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "dep",
+  "version": "${version}",
+  "name": "Казик",
+  "description": "Казино-город в отдельном измерении: слоты, рулетка, фишки, долговая тюрьма.",
+  "environment": "*",
+  "entrypoints": { "main": ["dep.DepMod"] },
+  "depends": { "fabricloader": ">=0.16.0", "minecraft": "~1.21.1", "java": ">=21", "fabric-api": "*" }
+}
